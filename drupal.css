@@ -1,3 +1,6 @@
+/**
+ * Login block
+ */
 #sidebar ul li form#user-login-form {
     margin-left: 30px;
 }
@@ -21,6 +24,10 @@
     margin-right: 60px;
 }
 
+
+/**
+ * Search form
+ */
 #sidebar form#search-block-form input.form-text {
 	width: 150px;
 	padding: 6px 5px 3px 5px;
