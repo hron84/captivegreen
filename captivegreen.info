@@ -1,0 +1,18 @@
+name = Captive Green
+description = Captive Green by FreeCSSTemplates.org
+
+core = 7.x
+version = 1.0
+engine = phptemplate
+
+regions[sidebar_second] = Right sidebar
+regions[content] = Content
+regions[header] = Header
+regions[footer] = Footer
+regions[highlighted] = Highlighted
+regions[help] = Help
+regions[page_top] = Page Top
+regions[page_bottom] = Page Bottom
+
+stylesheets[all][] = style.css
+stylesheets[all][] = drupal.css

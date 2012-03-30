@@ -1,0 +1,39 @@
+#sidebar ul li form#user-login-form {
+    margin-left: 30px;
+}
+
+#sidebar form#user-login-form input.form-text {
+    width: 75%;
+}
+#sidebar form#user-login-form .item-list ul {
+    padding-bottom: 0;
+}
+#sidebar form#user-login-form .item-list ul li {
+    margin: 0 5px;
+    border-bottom: none;
+    font-size: 8pt;
+    display: inline;
+    line-height: inherit;
+}
+
+#sidebar form#user-login-form .form-actions {
+    text-align: right;
+    margin-right: 60px;
+}
+
+#sidebar form#search-block-form input.form-text {
+	width: 150px;
+	padding: 6px 5px 3px 5px;
+	border: none;
+	background: #D0C9B7;
+	text-transform: lowercase;
+	font: normal 11px Arial, Helvetica, sans-serif;
+}
+
+#sidebar form#search-block-form #edit-submit {
+	width: 70px;
+	height: 22px;
+	border: none;
+	background: #1D1D1D;
+	color: #FFF;
+}
