@@ -13,7 +13,7 @@ Released   : 20111225
 	<div id="wrapper2">
 		<div id="header" class="container">
 			<div id="logo">
-      <h1><a href="#"><?php echo $site_name ?><span><?php echo $site_slogan ?></span></a></h1>
+      <h1><a href="<?php print $front_page ?>"><?php echo $site_name ?><span><?php echo $site_slogan ?></span></a></h1>
 			</div>
 			<div id="menu">
         <?php 
