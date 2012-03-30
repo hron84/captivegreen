@@ -3,7 +3,7 @@ Captive Green
 
 This theme is based on FreeCSSTemplates.org's [Captive Green template](http://www.freecsstemplates.org/preview/captivegreen/)
 
-This is a two-column, fixed-width design with dark color scheme.
+This is a two-column, fixed-width design with dark color scheme for Drupal 7.
 
 
 Licensing
