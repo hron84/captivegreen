@@ -29,18 +29,33 @@
  * Search form
  */
 #sidebar form#search-block-form input.form-text {
-	width: 150px;
-	padding: 6px 5px 3px 5px;
-	border: none;
-	background: #D0C9B7;
-	text-transform: lowercase;
-	font: normal 11px Arial, Helvetica, sans-serif;
+    width: 150px;
+    padding: 6px 5px 3px 5px;
+    border: none;
+    background: #D0C9B7;
+    text-transform: lowercase;
+    font: normal 11px Arial, Helvetica, sans-serif;
 }
 
 #sidebar form#search-block-form #edit-submit {
-	width: 70px;
-	height: 22px;
-	border: none;
-	background: #1D1D1D;
-	color: #FFF;
+    width: 70px;
+    height: 22px;
+    border: none;
+    background: #1D1D1D;
+    color: #FFF;
 }
+
+/**
+ * New comment
+ */
+.new {
+    float: right;
+    margin-top: 5px;
+}
+
+.node-teaser {
+    clear: both;
+}
+/*
+vim: ts=4 sw=4 et
+ */

@@ -5,7 +5,7 @@ core = 7.x
 version = 1.0
 engine = phptemplate
 
-regions[sidebar_second] = Right sidebar
+regions[sidebar_first] = Left sidebar
 regions[content] = Content
 regions[header] = Header
 regions[footer] = Footer
