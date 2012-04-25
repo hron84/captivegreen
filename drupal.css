@@ -56,6 +56,42 @@
 .node-teaser {
     clear: both;
 }
+
+
+ul.tabs li.active a {
+    background: none;
+    color: #056303;
+    
+}
+
+#menu li {
+    padding: 0 8px;
+}
+
+#menu a {
+    padding: 4px 6px;
+    border-radius: 8px;
+}
+
+ul.tabs li a {
+    background-color: #067303;
+    color: #FFFFFF;
+    -moz-border-radius-topright: 6px;
+    -moz-border-radius-topleft: 6px;
+    -webkit-border-top-left-radius: 6px;
+    -webkit-border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    /* border-bottom-color: #056303;*/
+}
+
+
+
+ul#main-menu li a:hover,
+ul#main-menu li a:focus,
+ul#main-menu li a.active {
+    background-color: #05200f;
+}
 /*
 vim: ts=4 sw=4 et
  */
